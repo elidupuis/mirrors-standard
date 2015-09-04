@@ -1,0 +1,8 @@
+{
+    "name": "pre-commit-standard",
+    "description": "pre-commit hook for standard (JS)",
+    "version": "0.0.0",
+    "scripts": {
+        "preinstall": "npm install standard@5.2.1 -g"
+    }
+}
