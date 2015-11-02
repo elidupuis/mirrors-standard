@@ -1,8 +1,8 @@
 {
-    "name": "pre-commit-standard",
-    "description": "pre-commit hook for standard (JS)",
+    "name": "__dummy_package",
+    "description": "Note: double curly-braces because python .format",
     "version": "0.0.0",
     "scripts": {
-        "preinstall": "npm install standard@5.2.1 -g"
+        "preinstall": "npm install standard@1.0.0 -g"
     }
 }
