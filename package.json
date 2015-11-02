@@ -3,6 +3,6 @@
     "description": "Note: double curly-braces because python .format",
     "version": "0.0.0",
     "scripts": {
-        "preinstall": "npm install standard@3.0.0-beta -g"
+        "preinstall": "npm install standard@3.0.0-beta2 -g"
     }
 }
